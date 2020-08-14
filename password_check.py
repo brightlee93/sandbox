@@ -4,3 +4,4 @@ if len(password) >= MIN_LENGTH:
     print(len(password) * "*")
 else:
     print("password not long enough")
+
